@@ -5,6 +5,6 @@ class AppTextStyle{
   AppTextStyle._();
 
   static final TextStyle h1 = TextStyle(
-    color: AppColors.block2,
+    color: AppColors.block1,
   );
 }

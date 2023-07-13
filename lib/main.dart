@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:paypal/view/home_view.dart';
+import 'package:paypal/ui/view/home_view.dart';
+
 
 void main() {
   runApp(const MyApp());
